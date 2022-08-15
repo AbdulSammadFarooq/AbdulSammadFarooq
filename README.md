@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/abdulsammad"><img src="https://api.daily.dev/devcards/cfb51bb9df43484691b6ee6ca59c19f1.png?r=ewh" width="400" alt="Abdul Sammad's Dev Card"/></a>
+<a href="https://app.daily.dev/abdulsammad"><img src="https://api.daily.dev/devcards/cfb51bb9df43484691b6ee6ca59c19f1.png?r=oc3" width="400" alt="Abdul Sammad's Dev Card"/></a>
 - 🔭 I’m currently working on EXSports Marketplace
 - 🌱 I’m currently learning JavaScript in depth
 - 📫 You can contact me on WhatsApp number +92348-5105730 or on Gmail abdul82303@gmail.com
