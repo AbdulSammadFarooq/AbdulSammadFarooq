@@ -1,5 +1,5 @@
 - 🔭 I’m currently working in MWAN MOBILE as a MERN Stack Developer
-- 🌱 I’m currently learning JavaScript in depth
+- 🌱 I’m currently learning advanced technologies
 - 📫 You can contact me on WhatsApp number +92348-5105730 or on Gmail abdul82303@gmail.com/sammadbinfarooq@gmail.com
 <!--
 **AbdulSammadFarooq/AbdulSammadFarooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
