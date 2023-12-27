@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I m Abdul Sammad</h1>
 <h2 align="center">Full Stack Developer | Pakistan</h2>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahat-sudozai&label=Profile%20views&color=0e75b6&style=flat" alt="wajahat-sudozai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulSammadFarooq&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulSammadFarooq" /> </p>
 🔭 I'm passionate about development.<br>
 🤝 I'm open to collaborate on innovative projects.<br>
 🌱 
