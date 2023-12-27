@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hi, I'm Wajahat Hussain</h1>
-<h2 align="center">Enthusiastic Blockchain Developer | Pakistan</h2>
+<h1 align="center">👋 Hi, Abdul Sammad</h1>
+<h2 align="center">Full Stack Developer | Pakistan</h2>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahat-sudozai&label=Profile%20views&color=0e75b6&style=flat" alt="wajahat-sudozai" /> </p>
-🔭 I'm passionate about Blockchain Development.<br>
-🤝 I'm open to collaborate on innovative blockchain projects.<br>
-🌱 I'm currently mastering Solidity, React.js, JavaScript, Node.js, Hardhat, Ethers.js, and Web3.js.<br>
-🌟 I have experience in developing Smart Contracts, Decentralized Applications (dApps), and DeFi projects.<br>
-📫 Feel free to reach me at: wajahatsudozai1309@gmail.com
+🔭 I'm passionate about development.<br>
+🤝 I'm open to collaborate on innovative projects.<br>
+🌱 
+🌟 I have experience in MERN Stack, Web3, Docker, graphQL, Redis Socket.io, TypeScript and many other libraries.<br>
+📫 Feel free to reach me at: sammadbinfarooq@gmail.com
 
 
 ## 🌐 Socials:
