@@ -12,9 +12,9 @@
 
 ## 🚀 Project Showcase:
 
-- [Project Name](https://github.com/yourusername/projectname) - Brief description or tagline.
+- [EXS-Marketplace](https://marketplace.ex-sports.io/) - NFTs marketplace where users can buy and sell NFTs.
 
-- [Another Project](https://github.com/yourusername/anotherproject) - Short description.
+- [Al-Hejin Camel Game Marketplace](https://play.google.com/store/apps/details?id=io.exs.android) - Buy Camel NFTs and join camel races to win rewards (Backend of this APP developed by myself)
 
 ## 🛠️ Skills Matrix:
 
@@ -35,11 +35,6 @@
 
 [![Recent GitHub Activity](https://github-readme-stats.vercel.app/api?username=AbdulSammadFarooq&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/AbdulSammadFarooq)
 
-## 📝 Blog/Articles:
-
-- [Title of Blog Post](https://yourblog.com/post1) - Brief description.
-
-- [Another Article](https://yourblog.com/post2) - Short description.
 
 ## 🎯 Goals and Interests:
 
