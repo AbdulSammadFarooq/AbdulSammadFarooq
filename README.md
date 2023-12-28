@@ -39,9 +39,17 @@
 
 ## 📚 Education and Certifications:
 
-- Bachelor's Degree in Computer Science, Your University, Year
+- Bachelor's Degree in Software Engineering, COMSATS University Islamabad, Pakistan, Feb 2022
 
-- Certification in XYZ Technology, Issuing Organization, Year
+- [React 18 Tutorial and Projects Course (2023)](https://www.udemy.com/certificate/UC-e1f69cab-ffd5-457b-af9e-e097755fed1d/)
+
+- [MERN Stack Certification by Pakistan Freelancing TrainingProgram (PFTP)](https://drive.google.com/file/d/110i8icIG6z5NsrGX0uit8NlH5WeN7Wi2/view?usp=drive_link)
+
+- [Git from Basic to Advance: Practical Guide for developers](https://www.udemy.com/certificate/UC-d5c5e9f4-2a1b-4f68-80bd-c7973acf5372/) 
+
+- [HackerRank JavaScript Basic Certificate](https://www.hackerrank.com/certificates/0cdf13753634)
+
+- [Certification of Appreciation](https://drive.google.com/file/d/1UbcCPVW4FDGbnxUClUprLFcUEaZI_cf7/view?usp=drive_link)
 
 ## 🌐 Recent Activity:
 
