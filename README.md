@@ -58,14 +58,13 @@
 
 ## 🎯 Goals and Interests:
 
-- Currently working on enhancing my skills in XYZ.
+- Currently working on enhancing my skills in Next JS.
 
-- Interested in exploring new technologies like ABC.
+- Interested in exploring new technologies like Web3, DevOps.
 
 ## 🌍 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sammad-farooq)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
