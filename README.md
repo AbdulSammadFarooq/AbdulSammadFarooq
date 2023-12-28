@@ -20,14 +20,22 @@
 
 - [Course Management System](http://164.92.118.160/) - Course Management system where user can take advantage of modern courses of education
 
+- Many other projects as well
+
 ## 🛠️ Skills Matrix:
 
 | Skill       | Proficiency |
 |-------------|-------------|
 | JavaScript  | ⭐⭐⭐⭐       |
-| React       | ⭐⭐⭐⭐⭐      |
-| Node.js     | ⭐⭐⭐         |
-| ...         | ...         |
+| Nod.js      | ⭐⭐⭐⭐      |
+| React.js     | ⭐⭐⭐         |
+| MongoDB     | ⭐⭐⭐⭐         |
+| MySQL     | ⭐⭐⭐⭐         |
+| GraphQL     | ⭐⭐⭐         |
+| Adonis.js     | ⭐⭐⭐         |
+| Firebase     | ⭐⭐⭐         |
+| Web3    | ⭐⭐⭐         |
+| Cloud     | ⭐⭐⭐         |
 
 ## 📚 Education and Certifications:
 
