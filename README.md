@@ -16,7 +16,7 @@
 
 - [Al-Hejin Camel Game Marketplace](https://play.google.com/store/apps/details?id=io.exs.android) - Buy Camel NFTs and join camel races to win rewards (Backend of this APP developed by myself)
 
-- [Toric Wallet](https://play.google.com/store/apps/details?id=io.exs.android) - Digital wallet APP where users can see their wallet transaction history, total balance, NFTs of wallet and many other functionalities (Backend of this APP developed by myself)
+- [Toric Wallet](https://play.google.com/store/apps/details?id=io.toric.androidwallet) - Digital wallet APP where users can see their wallet transaction history, total balance, NFTs of wallet and many other functionalities (Backend of this APP developed by myself)
 
 - [Course Management System](http://164.92.118.160/) - Course Management system where user can take advantage of modern courses of education
 
