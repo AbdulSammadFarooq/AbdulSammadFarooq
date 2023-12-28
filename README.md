@@ -8,7 +8,8 @@
 🔭 I'm passionate about development.<br>
 🤝 I'm open to collaborating on innovative projects.<br>
 🌱 I have experience in MERN Stack, Web3, Docker, GraphQL, Redis, Socket.io, TypeScript, and many other libraries.<br>
-📫 Feel free to reach me at: [sammadbinfarooq@gmail.com](mailto:sammadbinfarooq@gmail.com)
+📫 📫 Feel free to reach me at: [sammadbinfarooq@gmail.com](mailto:sammadbinfarooq@gmail.com)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sammad-farooq)
