@@ -55,13 +55,6 @@
 
 [![Recent GitHub Activity](https://github-readme-stats.vercel.app/api?username=AbdulSammadFarooq&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/AbdulSammadFarooq)
 
-
-## 🎯 Goals and Interests:
-
-- Currently working on enhancing my skills in Next JS.
-
-- Interested in exploring new technologies like Web3, DevOps.
-
 ## 🌍 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sammad-farooq)
