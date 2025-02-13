@@ -5,18 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulSammadFarooq&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulSammadFarooq" /> </p>
 
-🔭 I'm passionate about development.<br>
+🔭 Full Stack developer<br>
 🤝 I'm open to collaborating on innovative projects.<br>
-🌱 I have experience in MERN Stack, Web3, Docker, GraphQL, Redis, Socket.io, TypeScript, and many other libraries.<br>
 📫 Feel free to reach me at: [sammadbinfarooq@gmail.com](mailto:sammadbinfarooq@gmail.com)
 
 ## 🚀 Project Showcase:
 
 - [EXS-Marketplace](https://marketplace.ex-sports.io/) - NFTs marketplace where users can buy and sell NFTs.
 
-- [Al-Hejin Camel Game Marketplace](https://play.google.com/store/apps/details?id=io.exs.android) - Buy Camel NFTs and join camel races to win rewards (Backend of this APP developed by myself)
+- [Reward Marketplace](https://loyalty-marketplace.dev.mwancloud.com/campaigns/marketplace) - Campaign marketplace where you can do marketing of your assets
 
-- [Toric Wallet](https://play.google.com/store/apps/details?id=io.toric.androidwallet) - Digital wallet APP where users can see their wallet transaction history, total balance, NFTs of wallet and many other functionalities (Backend of this APP developed by myself)
+- [Al-Hejin Camel Game Marketplace](https://play.google.com/store/apps/details?id=io.exs.android) - Buy Camel NFTs and join camel races to win rewards (Backend of this APP developed by myself)
 
 - [Course Management System](http://164.92.118.160/) - Course Management system where user can take advantage of modern courses of education
 
@@ -27,6 +26,8 @@
 | Skill       | Proficiency |
 |-------------|-------------|
 | JavaScript  | ⭐⭐⭐⭐       |
+| Nod.js      | ⭐⭐⭐⭐      |
+| Next.js      | ⭐⭐⭐      |
 | Nod.js      | ⭐⭐⭐⭐      |
 | React.js     | ⭐⭐⭐         |
 | MongoDB     | ⭐⭐⭐⭐         |
