@@ -8,6 +8,7 @@
 🔭 Full Stack developer<br>
 🤝 I'm open to collaborating on innovative projects.<br>
 📫 Feel free to reach me at: [sammadbinfarooq@gmail.com](mailto:sammadbinfarooq@gmail.com)
+💻 Portfolio https://abdulsammadfarooq.github.io/my-portfolio/
 
 ## 🚀 Project Showcase:
 
