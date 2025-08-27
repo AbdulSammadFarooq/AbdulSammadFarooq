@@ -8,7 +8,7 @@
 🔭 Full Stack developer<br>
 🤝 I'm open to collaborating on innovative projects.<br>
 📫 Feel free to reach me at: [sammadbinfarooq@gmail.com](mailto:sammadbinfarooq@gmail.com) <br>
-💻 Portfolio https://abdulsammadfarooq.github.io/my-portfolio/
+💻 Portfolio https://abdul-sammad-portfolio.vercel.app/
 
 ## 🚀 Project Showcase:
 
