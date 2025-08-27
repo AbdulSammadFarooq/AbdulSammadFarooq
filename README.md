@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdul Sammad</h1>
-<h2 align="center">Full Stack Developer | Pakistan</h2>
+<h2 align="center">Full Stack Developer</h2>
 
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 
