@@ -1,7 +1,10 @@
-<h1 align="center">👋 Hi, I'm Abdul Sammad</h1>
-<h2 align="center">Full Stack Developer</h2>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Abdul%20Sammad%20Farooq&fontAlign=50&fontAlignY=40&color=gradient&desc=Full%20Stack%20Developer%20|%20MERN%20|%20Web3%20|%20Cloud&descAlign=50&descAlignY=65"/>
+</p>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
+<br/>
+<br/>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulSammadFarooq&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulSammadFarooq" /> </p>
 
