@@ -10,17 +10,6 @@
 📫 Feel free to reach me at: [sammadbinfarooq@gmail.com](mailto:sammadbinfarooq@gmail.com) <br>
 💻 Portfolio https://abdul-sammad-portfolio.vercel.app/
 
-## 🚀 Project Showcase:
-
-- [EXS-Marketplace](https://marketplace.ex-sports.io/) - NFTs marketplace where users can buy and sell NFTs.
-
-- [Reward Marketplace](https://loyalty-marketplace.dev.mwancloud.com/campaigns/marketplace) - Campaign marketplace where you can do marketing of your assets
-
-- [Al-Hejin Camel Game Marketplace](https://play.google.com/store/apps/details?id=io.exs.android) - Buy Camel NFTs and join camel races to win rewards (Backend of this APP developed by myself)
-
-- [Course Management System](http://164.92.118.160/) - Course Management system where user can take advantage of modern courses of education
-
-- Many other projects as well
 
 ## 🛠️ Skills Matrix:
 
